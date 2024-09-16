@@ -10,10 +10,10 @@ The repository is organized in separate folders for each rom hack.
 
 In a rom hack folder you find the following contents:
 
-- Marquee for the game.
-- Design Log for the game.
-- Folder ``Versions Archive`` - contains all the intermediate design versions of the game.
-- Folder ``MAME Rom`` - contains the game rom for use in the MAME emulato.
+- Marquee for the game - the image for the rom hack - usually displayed at the top of the cabinet.
+- Design Log for the game - document that captures the design log that was recorded when designing the rom hack.
+- Folder ``Versions Archive`` - contains all the intermediate design versions, aka bêta versions, of the game.
+- Folder ``MAME Rom`` - contains the game rom for use in the MAME emulator.
 - Folder ``HBMAME Rom`` - contains the game rom for use in the HomeBrew MAME emulator.
 - Folder ``FBNEO Rom`` - contains the game rom for use in the FinalBurn Neo emulator.
 
