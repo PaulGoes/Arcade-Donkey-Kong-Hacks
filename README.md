@@ -4,7 +4,7 @@ This repository contains the various rom hacks that I created of the Arcade Donk
 
 More information can be found on my website: [https://donkeykonghacks.net](https://donkeykonghacks.net).
 
-<img src="https://github.com/PaulGoes/Arcade-Donkey-Kong-Hacks/blob/main/Screen%20donkeykonghacks.net.png" width="500">
+<img src="https://github.com/PaulGoes/Arcade-Donkey-Kong-Hacks/blob/main/Screen%20donkeykonghacks.net.png" width="700">
 
 ## Structure and contents
 
