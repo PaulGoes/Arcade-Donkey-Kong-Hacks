@@ -18,7 +18,7 @@ In a rom hack folder you find the following contents:
 - Folder ``\FBNEO Rom\...`` - contains the game rom for use in the FinalBurn Neo emulator.
 
 > [!NOTE]
-> The game is primarily designed and tested using MAME. So all intermediate design versions only work in the MAME emulator.
+> The game is primarily designed and tested using the MAME emulator. So all intermediate design versions only work in the MAME emulator.
 
 > [!NOTE]
 > Not all rom hacks have a Design Log. The roms that have no Design Log are: DK Freerun Edition, DK Crazy Barrels, DK Reverse and DK Skip Start.
