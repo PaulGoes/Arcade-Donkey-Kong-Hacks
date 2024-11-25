@@ -25,7 +25,10 @@ In a rom hack folder you find the following contents:
 > The game is primarily designed and tested using the MAME emulator. So all intermediate design versions only work in the MAME emulator.
 
 > [!NOTE]
-> Not all rom hacks have a Design Log. The roms that have no Design Log are: DK Freerun Edition, DK Crazy Barrels, DK Reverse and DK Skip Start.
+> Not all rom hacks have a Design Log. The roms that have no Design Log are: DK Freerun Edition, DK Crazy Barrels, DK Reverse, DK Skip Start and DK Sprites And Hitboxes.
+
+> > [!NOTE]
+> Not all rom hacks are supported by the HomeBrew MAME emulator. If they are not supported, the ``HBMAME Rom' folder will not exist.
 
 > [!NOTE]
-> Not all rom hacks are supported by FinalBurn Neo. If they are not supported, the ``FBNEO Roms' folder will not exist.
+> Not all rom hacks are supported by the FinalBurn Neo emulator. If they are not supported, the ``FBNEO Rom' folder will not exist.
